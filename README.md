@@ -1,2 +1,2 @@
-# CNN-on-CelebA-dataset-Using-Pytorch
+# Fully Connected Neural Network Using Pytorch
 This repository contains
